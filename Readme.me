@@ -1,0 +1,13 @@
+# Competition Data Science
+
+https://stepik.org/course/108888
+
+
+# Setting up environment
+To make catboost plots work we need fixed versions of packages
+```
+mamba create -n ml python=3.8
+mamba activate ml
+mamba install -y pandas=1.5.3 numpy catboost scikit-learn jupyter notebook  ipywidgets=7.7.5
+jupyter nbextension enable --py widgetsnbextension
+```
