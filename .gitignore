@@ -1,6 +1,6 @@
 .idea
 .ipynb_checkpoints
 catboost_info
-data
+data/
 datafeeling.egg-info
 notebooks/catboost_info
