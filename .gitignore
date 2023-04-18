@@ -2,3 +2,5 @@
 .ipynb_checkpoints
 catboost_info
 data
+datafeeling.egg-info
+notebooks/catboost_info

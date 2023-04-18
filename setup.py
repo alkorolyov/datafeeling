@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='datafeeling',
-    url='https://github.com/mypackage.git',
+    url='https://github.com/alkorolyov/datafeeling.git',
     packages=find_packages(),
     install_requires=[
         'numpy',
